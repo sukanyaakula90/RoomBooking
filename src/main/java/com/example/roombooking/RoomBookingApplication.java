@@ -9,6 +9,7 @@ public class RoomBookingApplication {
     public static void main(String[] args) {
         SpringApplication.run(RoomBookingApplication.class, args);
         System.out.println("Hii");
+
     }
 
 }
